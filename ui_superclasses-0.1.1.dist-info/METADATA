@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: ui_superclasses
+Version: 0.1.1
+Summary: Superclasses for UI components
+Author: Your Name
+Author-email: "L. Cutrone" <lcutrone@rrc.ca>
+License: Copyright (c) [2024] [Red River College Polytechnic: ACE Department]
+        
+        Permission is hereby granted, free of charge, to any RRC Polytech AD & D student obtaining a copy
+        of this software and associated documentation files (the "Software"), to use the software to complete assignment requirements only.
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+        
+Project-URL: homepage, https://your-homepage-url.com
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyside6
+
+# Description
+This 'Source_Backup' folder serves 2 purposes.
+
+- 1. When building the installer, the source code must be 'moved' so that the 
+installer does not install the native py files.  That way, once installed, students 
+cannot view the python code.
+- 2. Since the source code resides in this folder, the html-style documentation for 
+the superclasses also resides in this folder.
+
+## Maintenance
+- If the source code changes, the source code will need to TEMPORARILY be placed back in the ui_superclasses directory so that it can be re-built for distribution.  Once it has been 
+rebuilt - but BEFORE generating the distributable file, place the updated source code back in this directory.  See the documentation in the setup.py file in the ui_superclasses directory for complete instructions.
+- To update the documentation, sphinx will need to be installed.  use the following command:
+    pip install sphinx sphinx-autobuild
+    
+- If the documentation changes:
+- - delete the docs/_build folder and 
+- - run the following command from the docs/ directory:
+
+    sphinx-build -b html . _build
+- The updated documentation will be placed into the _build directory.
+
+
+

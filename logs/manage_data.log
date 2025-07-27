@@ -1,0 +1,1830 @@
+root - ERROR - Missing required data field [Row: {'client_number': '1001', 'first_name': 'John', 'last_name': 'Doe', 'email_address': 'johndoe@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1002', 'first_name': 'Jane', 'last_name': 'Smith', 'email_address': 'janesmith@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1003', 'first_name': 'Emily', 'last_name': 'Jones', 'email_address': 'emilyjones@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1004', 'first_name': 'Michael', 'last_name': 'Brown', 'email_address': 'michaelbrown@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1005', 'first_name': 'David', 'last_name': 'Taylor', 'email_address': 'davidtaylor@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1006', 'first_name': 'Maria', 'last_name': 'Lee', 'email_address': 'marialee@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1007', 'first_name': 'James', 'last_name': 'White', 'email_address': 'jameswhite@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1008', 'first_name': 'Linda', 'last_name': 'Harris', 'email_address': 'lindaharris@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1009', 'first_name': 'Robert', 'last_name': 'Martin', 'email_address': 'robertmartin@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1010', 'first_name': 'Susan', 'last_name': 'Clark', 'email_address': 'susanclark@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1011', 'first_name': '', 'last_name': 'Jeffries', 'email_address': 'jeffries@pixell.com'}]: 'name'
+
+
+root - ERROR - Bank Account: 20001 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 20002 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 22222 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 20003 contains invalid Client Number: 1002
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20005 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20006 contains invalid Client Number: 1003
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20008 contains invalid Client Number: 1004
+
+
+root - ERROR - Bank Account: 20009 contains invalid Client Number: 1005
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20011 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20012 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20014 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20015 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20017 contains invalid Client Number: 1009
+
+
+root - ERROR - Bank Account: 20018 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20020 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20021 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20023 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20024 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20026 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20027 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20029 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20030 contains invalid Client Number: 1001
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20032 contains invalid Client Number: 1005
+
+
+root - ERROR - Bank Account: 20033 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20035 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20036 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20038 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20039 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20041 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20042 contains invalid Client Number: 1005
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20044 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20045 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20047 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20048 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20050 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20051 contains invalid Client Number: 1001
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20053 contains invalid Client Number: 1004
+
+
+root - ERROR - Bank Account: 20054 contains invalid Client Number: 1003
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20056 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20057 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20059 contains invalid Client Number: 1002
+
+
+root - ERROR - Bank Account: 20060 contains invalid Client Number: 1007
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20062 contains invalid Client Number: 1005
+
+
+root - ERROR - Bank Account: 20063 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20065 contains invalid Client Number: 1008
+
+
+root - ERROR - Bank Account: 20066 contains invalid Client Number: 1010
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20068 contains invalid Client Number: 1009
+
+
+root - ERROR - Bank Account: 20069 contains invalid Client Number: 1002
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20071 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 20072 contains invalid Client Number: 1005
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20074 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20075 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20077 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20078 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20080 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20081 contains invalid Client Number: 1001
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20083 contains invalid Client Number: 1004
+
+
+root - ERROR - Bank Account: 20084 contains invalid Client Number: 1003
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20086 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20087 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20089 contains invalid Client Number: 1002
+
+
+root - ERROR - Bank Account: 20090 contains invalid Client Number: 1007
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20092 contains invalid Client Number: 1005
+
+
+root - ERROR - Bank Account: 20093 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20095 contains invalid Client Number: 1008
+
+
+root - ERROR - Bank Account: 20096 contains invalid Client Number: 1010
+
+
+root - ERROR - Unable to create bank account: Invalid data format - could not convert string to float: 'ten'
+
+
+root - ERROR - Bank Account: 20098 contains invalid Client Number: 1009
+
+
+root - ERROR - Not a valid account type.
+
+
+root - ERROR - Bank Account: 20100 contains invalid Client Number: 9999
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1001', 'first_name': 'John', 'last_name': 'Doe', 'email_address': 'johndoe@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1002', 'first_name': 'Jane', 'last_name': 'Smith', 'email_address': 'janesmith@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1003', 'first_name': 'Emily', 'last_name': 'Jones', 'email_address': 'emilyjones@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1004', 'first_name': 'Michael', 'last_name': 'Brown', 'email_address': 'michaelbrown@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1005', 'first_name': 'David', 'last_name': 'Taylor', 'email_address': 'davidtaylor@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1006', 'first_name': 'Maria', 'last_name': 'Lee', 'email_address': 'marialee@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1007', 'first_name': 'James', 'last_name': 'White', 'email_address': 'jameswhite@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1008', 'first_name': 'Linda', 'last_name': 'Harris', 'email_address': 'lindaharris@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1009', 'first_name': 'Robert', 'last_name': 'Martin', 'email_address': 'robertmartin@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1010', 'first_name': 'Susan', 'last_name': 'Clark', 'email_address': 'susanclark@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1011', 'first_name': '', 'last_name': 'Jeffries', 'email_address': 'jeffries@pixell.com'}]: 'name'
+
+
+root - ERROR - Bank Account: 20001 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 20002 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 22222 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 20003 contains invalid Client Number: 1002
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20005 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20006 contains invalid Client Number: 1003
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20008 contains invalid Client Number: 1004
+
+
+root - ERROR - Bank Account: 20009 contains invalid Client Number: 1005
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20011 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20012 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20014 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20015 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20017 contains invalid Client Number: 1009
+
+
+root - ERROR - Bank Account: 20018 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20020 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20021 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20023 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20024 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20026 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20027 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20029 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20030 contains invalid Client Number: 1001
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20032 contains invalid Client Number: 1005
+
+
+root - ERROR - Bank Account: 20033 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20035 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20036 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20038 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20039 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20041 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20042 contains invalid Client Number: 1005
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20044 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20045 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20047 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20048 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20050 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20051 contains invalid Client Number: 1001
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20053 contains invalid Client Number: 1004
+
+
+root - ERROR - Bank Account: 20054 contains invalid Client Number: 1003
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20056 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20057 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20059 contains invalid Client Number: 1002
+
+
+root - ERROR - Bank Account: 20060 contains invalid Client Number: 1007
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20062 contains invalid Client Number: 1005
+
+
+root - ERROR - Bank Account: 20063 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20065 contains invalid Client Number: 1008
+
+
+root - ERROR - Bank Account: 20066 contains invalid Client Number: 1010
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20068 contains invalid Client Number: 1009
+
+
+root - ERROR - Bank Account: 20069 contains invalid Client Number: 1002
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20071 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 20072 contains invalid Client Number: 1005
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20074 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20075 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20077 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20078 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20080 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20081 contains invalid Client Number: 1001
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20083 contains invalid Client Number: 1004
+
+
+root - ERROR - Bank Account: 20084 contains invalid Client Number: 1003
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20086 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20087 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20089 contains invalid Client Number: 1002
+
+
+root - ERROR - Bank Account: 20090 contains invalid Client Number: 1007
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20092 contains invalid Client Number: 1005
+
+
+root - ERROR - Bank Account: 20093 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20095 contains invalid Client Number: 1008
+
+
+root - ERROR - Bank Account: 20096 contains invalid Client Number: 1010
+
+
+root - ERROR - Unable to create bank account: Invalid data format - could not convert string to float: 'ten'
+
+
+root - ERROR - Bank Account: 20098 contains invalid Client Number: 1009
+
+
+root - ERROR - Not a valid account type.
+
+
+root - ERROR - Bank Account: 20100 contains invalid Client Number: 9999
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1001', 'first_name': 'John', 'last_name': 'Doe', 'email_address': 'johndoe@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1002', 'first_name': 'Jane', 'last_name': 'Smith', 'email_address': 'janesmith@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1003', 'first_name': 'Emily', 'last_name': 'Jones', 'email_address': 'emilyjones@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1004', 'first_name': 'Michael', 'last_name': 'Brown', 'email_address': 'michaelbrown@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1005', 'first_name': 'David', 'last_name': 'Taylor', 'email_address': 'davidtaylor@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1006', 'first_name': 'Maria', 'last_name': 'Lee', 'email_address': 'marialee@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1007', 'first_name': 'James', 'last_name': 'White', 'email_address': 'jameswhite@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1008', 'first_name': 'Linda', 'last_name': 'Harris', 'email_address': 'lindaharris@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1009', 'first_name': 'Robert', 'last_name': 'Martin', 'email_address': 'robertmartin@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1010', 'first_name': 'Susan', 'last_name': 'Clark', 'email_address': 'susanclark@pixell.com'}]: 'name'
+
+
+root - ERROR - Missing required data field [Row: {'client_number': '1011', 'first_name': '', 'last_name': 'Jeffries', 'email_address': 'jeffries@pixell.com'}]: 'name'
+
+
+root - ERROR - Bank Account: 20001 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 20002 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 22222 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 20003 contains invalid Client Number: 1002
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20005 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20006 contains invalid Client Number: 1003
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20008 contains invalid Client Number: 1004
+
+
+root - ERROR - Bank Account: 20009 contains invalid Client Number: 1005
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20011 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20012 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20014 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20015 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20017 contains invalid Client Number: 1009
+
+
+root - ERROR - Bank Account: 20018 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20020 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20021 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20023 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20024 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20026 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20027 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20029 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20030 contains invalid Client Number: 1001
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20032 contains invalid Client Number: 1005
+
+
+root - ERROR - Bank Account: 20033 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20035 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20036 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20038 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20039 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20041 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20042 contains invalid Client Number: 1005
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20044 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20045 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20047 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20048 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20050 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20051 contains invalid Client Number: 1001
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20053 contains invalid Client Number: 1004
+
+
+root - ERROR - Bank Account: 20054 contains invalid Client Number: 1003
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20056 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20057 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20059 contains invalid Client Number: 1002
+
+
+root - ERROR - Bank Account: 20060 contains invalid Client Number: 1007
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20062 contains invalid Client Number: 1005
+
+
+root - ERROR - Bank Account: 20063 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20065 contains invalid Client Number: 1008
+
+
+root - ERROR - Bank Account: 20066 contains invalid Client Number: 1010
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20068 contains invalid Client Number: 1009
+
+
+root - ERROR - Bank Account: 20069 contains invalid Client Number: 1002
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20071 contains invalid Client Number: 1001
+
+
+root - ERROR - Bank Account: 20072 contains invalid Client Number: 1005
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20074 contains invalid Client Number: 1003
+
+
+root - ERROR - Bank Account: 20075 contains invalid Client Number: 1008
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20077 contains invalid Client Number: 1006
+
+
+root - ERROR - Bank Account: 20078 contains invalid Client Number: 1009
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20080 contains invalid Client Number: 1007
+
+
+root - ERROR - Bank Account: 20081 contains invalid Client Number: 1001
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20083 contains invalid Client Number: 1004
+
+
+root - ERROR - Bank Account: 20084 contains invalid Client Number: 1003
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20086 contains invalid Client Number: 1010
+
+
+root - ERROR - Bank Account: 20087 contains invalid Client Number: 1006
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20089 contains invalid Client Number: 1002
+
+
+root - ERROR - Bank Account: 20090 contains invalid Client Number: 1007
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20092 contains invalid Client Number: 1005
+
+
+root - ERROR - Bank Account: 20093 contains invalid Client Number: 1004
+
+
+root - ERROR - Missing required data field: 'investment_type'
+
+
+root - ERROR - Bank Account: 20095 contains invalid Client Number: 1008
+
+
+root - ERROR - Bank Account: 20096 contains invalid Client Number: 1010
+
+
+root - ERROR - Unable to create bank account: Invalid data format - could not convert string to float: 'ten'
+
+
+root - ERROR - Bank Account: 20098 contains invalid Client Number: 1009
+
+
+root - ERROR - Not a valid account type.
+
+
+root - ERROR - Bank Account: 20100 contains invalid Client Number: 9999
+
+
+ERROR - Unable to create client: First Name cannot be blank.
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: InvestmentAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: SavingsAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: ChequingAccount.__init__() got an unexpected keyword argument 'client'
+ERROR - Unable to create bank account: could not convert string to float: 'ten'
+ERROR - Unable to create bank account: time data '20230915' does not match format '%Y-%m-%d'
+ERROR - Not a valid account type: InvestmentAccoun
+ERROR - Bank Account: 20100 contains invalid Client Number
+ERROR - Unable to create client: First Name cannot be blank.
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Unable to create bank account: could not convert string to float: 'ten'
+ERROR - Unable to create bank account: time data '20230915' does not match format '%Y-%m-%d'
+ERROR - Not a valid account type: InvestmentAccoun
+ERROR - Bank Account: 20100 contains invalid Client Number
+ERROR - Unable to create client: First Name cannot be blank.
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Unable to create bank account: could not convert string to float: 'ten'
+ERROR - Unable to create bank account: time data '20230915' does not match format '%Y-%m-%d'
+ERROR - Not a valid account type: InvestmentAccoun
+ERROR - Bank Account: 20100 contains invalid Client Number
+ERROR - Unable to create client: First Name cannot be blank.
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Error processing account record: __init__() got an unexpected keyword argument 'client'
+ERROR - Unable to create bank account: could not convert string to float: 'ten'
+ERROR - Unable to create bank account: time data '20230915' does not match format '%Y-%m-%d'
+ERROR - Not a valid account type: InvestmentAccoun
+ERROR - Bank Account: 20100 contains invalid Client Number
+root - ERROR - Unable to create client: First name cannot be blank
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create bank account: time data '20230915' does not match format '%Y-%m-%d'
+
+
+root - ERROR - Not a valid account type: InvestmentAccoun
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create client: First name cannot be blank
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create bank account: time data '20230915' does not match format '%Y-%m-%d'
+
+
+root - ERROR - Not a valid account type: InvestmentAccoun
+
+
+root - ERROR - Unable to create bank account: Date created must be an instance of datetime.date
+
+
