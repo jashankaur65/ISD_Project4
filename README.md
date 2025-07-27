@@ -4,7 +4,7 @@ This project will be developed over the course of several assignments.  Each ass
 
 ## Author
 
-Jashan
+Jashan Kaur
 
 ## Assignment
 
