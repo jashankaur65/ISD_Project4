@@ -1,6 +1,7 @@
 class Subject:
     def __init__(self):
         self._observers = []
+        
 
     def attach(self, observer):
         self._observers.append(observer)
