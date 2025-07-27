@@ -21,8 +21,7 @@ class SavingsAccount(BankAccount):
 
 
     def __str__(self):
-        """
-        Returns a string representation of the SavingsAccount object,
+        """Returns a string representation of the SavingsAccount object,
         including account number, balance, and minimum balance.
         """
         return (f"Account Number: {self.account_number}\n"
