@@ -3,6 +3,7 @@ Description: A class to manage Client.
 Author: Jashan
 Date: 07/26/2025
 """
+
 from email_validator import validate_email, EmailNotValidError
 from patterns.observer.observer import Observer
 from utility.file_utils import simulate_send_email
